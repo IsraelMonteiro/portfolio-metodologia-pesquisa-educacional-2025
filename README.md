@@ -1,14 +1,24 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! I'm Israel Monteiro
 
-![Profile Views](https://komarev.com/ghpvc/?username=israelsmonteiro&label=Profile%20Views&color=0e75b6&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=IsraelMonteiro&label=Profile%20Views&color=0e75b6&style=flat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-israelsmonteiro-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/israelsmonteiro/)
 [![Lattes](https://img.shields.io/badge/Lattes-Perfil-blue)](https://lattes.cnpq.br/6908410029291276)
 
 ---
 
+## 🏆 Roles & Expertise
+
+![Pesquisador](https://img.shields.io/badge/Pesquisador-%23007ACC?style=for-the-badge&logo=academia&logoColor=white)
+![Desenvolvedor](https://img.shields.io/badge/Desenvolvedor-%2300A98F?style=for-the-badge&logo=codeforces&logoColor=white)
+![Acadêmico](https://img.shields.io/badge/Acadêmico-%23F24E1E?style=for-the-badge&logo=bookstack&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-%23FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Estatístico](https://img.shields.io/badge/Estatístico-%234285F4?style=for-the-badge&logo=chart-bar&logoColor=white)
+
+---
+
 ## 👨‍💻 About Me
 
-I am a **Specialist in Script Development, Queries, and Tools** at **Petrobras EDISE-RJ**  
+🔹 I am a **Specialist in Script Development, Queries, and Tools** at **Petrobras EDISE-RJ**  
 🔹 Passionate about **Data Analytics, Business Intelligence, and Automation**  
 🔹 Expertise in **SAP MM, DBeaver, Power BI, Python, SQL, and VBA**  
 🔹 Enthusiastic about **Data Governance, BI Development, and ETL processes**  
@@ -23,18 +33,31 @@ I am a **Specialist in Script Development, Queries, and Tools** at **Petrobras E
 
 ## 🛠 Tech Stack & Skills
 
-🔹 **Programming & Scripting:** Python, VBA, Google Apps Script  
-🔹 **Data & BI Tools:** Power BI (DAX/M), Looker Studio, KNIME, Qlik Sense  
-🔹 **Databases & Queries:** SQL, DBeaver, SAP Queries  
-🔹 **Development & Automation:** ETL, UX Design (Figma)  
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="VBA" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img align="center" alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <br/><br/>
+    <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img align="center" alt="Looker Studio" src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+    <img align="center" alt="KNIME" src="https://img.shields.io/badge/KNIME-FFC107?style=for-the-badge&logo=knime&logoColor=black" />
+    <img align="center" alt="Qlik Sense" src="https://img.shields.io/badge/Qlik%20Sense-74C947?style=for-the-badge&logo=qlik&logoColor=white" />
+    <br/><br/>
+    <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img align="center" alt="DBeaver" src="https://img.shields.io/badge/DBeaver-003B57?style=for-the-badge&logo=dbeaver&logoColor=white" />
+    <img align="center" alt="SAP Queries" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+    <br/><br/>
+    <img align="center" alt="ETL" src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white" />
+    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelsmonteiro&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelMonteiro&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israelsmonteiro&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsraelMonteiro&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
