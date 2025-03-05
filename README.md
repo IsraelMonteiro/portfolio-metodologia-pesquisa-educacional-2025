@@ -8,11 +8,11 @@
 
 ## 🏆 Roles & Expertise
 
-![Pesquisador](https://img.shields.io/badge/Pesquisador-%23007ACC?style=for-the-badge&logo=academia&logoColor=white)
-![Desenvolvedor](https://img.shields.io/badge/Desenvolvedor-%2300A98F?style=for-the-badge&logo=codeforces&logoColor=white)
-![Acadêmico](https://img.shields.io/badge/Acadêmico-%23F24E1E?style=for-the-badge&logo=bookstack&logoColor=white)
-![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-%23FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Estatístico](https://img.shields.io/badge/Estatístico-%234285F4?style=for-the-badge&logo=chart-bar&logoColor=white)
+![Developer](https://img.shields.io/badge/Developer-%2300A98F?style=for-the-badge&logo=codeforces&logoColor=white)
+![Researcher](https://img.shields.io/badge/Researcher-%23007ACC?style=for-the-badge&logo=academia&logoColor=white)
+![Academic](https://img.shields.io/badge/Academic-%23F24E1E?style=for-the-badge&logo=bookstack&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%23FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Statistician](https://img.shields.io/badge/Statistician-%234285F4?style=for-the-badge&logo=chart-bar&logoColor=white)
 
 ---
 
